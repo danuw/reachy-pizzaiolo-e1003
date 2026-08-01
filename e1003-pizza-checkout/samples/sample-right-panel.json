@@ -1,0 +1,32 @@
+{
+  "screenId": "crust-choice",
+  "mode": "choice",
+  "title": "Choose your crust",
+  "subtitle": "For your Margherita",
+  "image": {
+    "type": "placeholder",
+    "label": "Pizza image"
+  },
+  "buttons": [
+    {
+      "id": "thin",
+      "label": "Thin crust",
+      "subtitle": "Crispy and light"
+    },
+    {
+      "id": "classic",
+      "label": "Classic crust",
+      "subtitle": "Recommended"
+    },
+    {
+      "id": "gluten-free",
+      "label": "Gluten free",
+      "subtitle": "+\u00a31.50"
+    },
+    {
+      "id": "cancel",
+      "label": "No thanks",
+      "style": "secondary"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "screenId": "customise-margherita-cheese",
+  "itemId": "item-001",
+  "step": "extra-cheese",
+  "question": "Add extra cheese?",
+  "subtitle": "For your large Margherita",
+  "image": {
+    "type": "placeholder",
+    "label": "Cheese"
+  },
+  "options": [
+    {
+      "id": "yes-extra-cheese",
+      "label": "Yes, add cheese",
+      "subtitle": "+\u00a31.00"
+    },
+    {
+      "id": "no-extra-cheese",
+      "label": "No extra cheese"
+    }
+  ]
+}

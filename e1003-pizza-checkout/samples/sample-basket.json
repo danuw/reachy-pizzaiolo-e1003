@@ -1,0 +1,27 @@
+{
+  "title": "Your basket",
+  "currency": "\u00a3",
+  "status": "Please confirm your order",
+  "items": [
+    {
+      "id": "item-001",
+      "title": "Margherita",
+      "subtitle": "Large - thin crust - extra mozzarella",
+      "quantity": 2,
+      "unitPrice": 11.95,
+      "lineTotal": 23.9
+    },
+    {
+      "id": "item-002",
+      "title": "Garlic bread",
+      "subtitle": "Vegan cheese",
+      "quantity": 1,
+      "unitPrice": 4.5,
+      "lineTotal": 4.5
+    }
+  ],
+  "subtotal": 28.4,
+  "discount": 0,
+  "delivery": 0,
+  "total": 28.4
+}
